@@ -1,0 +1,6 @@
+body {
+  background-color: grey;
+}
+.card:hover {
+  background-color: yellow;
+}
